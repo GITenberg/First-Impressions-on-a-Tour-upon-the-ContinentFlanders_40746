@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40806'
     url: http://www.gutenberg.org/2009/agents/40806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40746#First-Impressions-on-a-Tour-upon-the-ContinentFlanders
 gutenberg_issued: '2012-09-13'
 gutenberg_type: Text
 identifiers:
